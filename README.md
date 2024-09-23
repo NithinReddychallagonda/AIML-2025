@@ -16,4 +16,4 @@
 3. [Lab 03](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_03_AIML.ipynb)
 4. [Lab_04](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab04.ipynb)
 5. [Lab_05](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_05__AIML.ipynb)
-6. [Lab_06]()
+6. [Lab_06](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_06_AIML.ipynb)
