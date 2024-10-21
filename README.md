@@ -8,8 +8,8 @@
 6. [Lab 06](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/AIML_A6.pdf): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/AIML_A7.pdf): Implement Support Vector Machine using Breast Cancer Data
 8. [Lab 08](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/AIML_A8.pdf): Implement Decision Tree Classifier using Lending Club Data
-9. [Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
-10. [Lab 10](): Implement K-Means Clustering using Iris Data
+9. [Lab 09](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Classifier using Lending Club Data
+10. [Lab 10](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
 # Lab Code Notebooks
 1. [Lab 01](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_01_AIML.ipynb)
 2. [Lab 02](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_02_AIML.ipynb)
@@ -17,3 +17,7 @@
 4. [Lab_04](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab04.ipynb)
 5. [Lab_05](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_05__AIML.ipynb)
 6. [Lab_06](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_06_AIML.ipynb)
+7. [Lab_07](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_07_AIML.ipynb)
+8. [Lab_08](https://github.com/NithinReddychallagonda/AIML-2025/blob/main/Lab_08_AIML.ipynb)
+9. [Lab_09]()
+10. [Lab_10]()
